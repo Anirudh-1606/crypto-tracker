@@ -1,12 +1,10 @@
 # Crypto Tracker
-This web application shows the current cryptocurrencies using an API from coingecko\
-
-<br/>
+This web application shows the current cryptocurrencies using an API from coingecko
 
 ## Tech Stack:
-"*" ReactJs
-"*" JSX
-"*" CSS
+* ReactJs
+* JSX
+* CSS
 <br/>
 
 ## Demo Link:
