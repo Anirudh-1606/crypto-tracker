@@ -5,7 +5,6 @@ This web application shows the current cryptocurrencies using an API from coinge
 * ReactJs
 * JSX
 * CSS
-<br/>
 
 #### How to install it?
 - go ahead and clone this repository
