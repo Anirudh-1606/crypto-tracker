@@ -9,7 +9,7 @@ This web application shows the current cryptocurrencies using an API from coinge
 #### How to install it?
 - go ahead and clone this repository
 - open the code in a file editor
-- then hit `npm install` to install necessary dependencies
+- then hit `npm install` to install necessary dependencies.
 - hit `npm start` in the terminal to run this project in your locak machine.
 
 ## Demo Link:
